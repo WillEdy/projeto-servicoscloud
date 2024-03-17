@@ -1,4 +1,4 @@
-O sistema verifica se alguma transação seguida foi realizada em alguma outra unidade federativa(estado) a partir da ultima unidade utilizada.
+O sistema verifica se alguma transação seguida foi realizada em alguma outra unidade federativa(estado) a partir da última unidade utilizada.
 
 Use o comando bash no arquivo sobe-infra.sh para subir os containers e instalar dependencias. "bash sobe-infra.sh"
 
